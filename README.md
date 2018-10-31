@@ -1,5 +1,5 @@
 # PROG
-####Exercícios de Programação **@FEUP** (EIC0012 2016/2017)
+#### Exercícios de Programação **@FEUP** (EIC0012 2016/2017)
 __________________
 
 ### Forma de Disponibilização
